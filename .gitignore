@@ -1,0 +1,15 @@
+*.log
+*.err
+*.out
+
+.DS_Store
+Thumbs.db
+
+timelysync-backend/timelysync-backend/target/
+timelysync-backend/timelysync-backend/.m2/
+
+timelysyncc-frontend/node_modules/
+timelysyncc-frontend/.git/
+
+.env
+.env.*
